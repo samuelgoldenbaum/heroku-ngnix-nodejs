@@ -1,0 +1,16 @@
+{
+  "name": "heroku-ngnix-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  }
+}

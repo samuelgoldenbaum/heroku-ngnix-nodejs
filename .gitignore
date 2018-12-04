@@ -1,0 +1,16 @@
+.DS_Store
+.idea
+
+#log files
+.logs
+
+#jsdocs
+out
+docs
+
+#npm modules
+node_modules
+
+dump.rdb
+
+.env
